@@ -1,0 +1,98 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Overpass', sans-serif;
+}
+.title {
+    margin: auto;
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+    opacity: 0.8;
+}
+.title1{
+    margin: auto;
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+    opacity: 0.8;
+}
+.title2{
+    margin: auto;
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+    opacity: 0.8;
+}
+.title3{
+    margin: auto;
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+    opacity: 0.8;
+}
+.s {
+    border-radius: 8px;
+    font-size: 20px;
+ }
+.contents{
+    background-color: rgb(243, 243, 243);
+    height: auto; 
+    margin: auto;
+    display: flex;
+}
+.cont1{
+    background-color: rgb(243, 243, 243);
+    height: auto; 
+    margin: auto;
+    display: flex;
+}
+.cont2{
+    background-color: rgb(243, 243, 243);
+    height: auto; 
+    margin: auto;
+    display: flex;
+}
+.cont3{
+    background-color: rgb(243, 243, 243);
+    height: auto; 
+    margin: auto;
+    display: flex;
+}
+.cont4{
+    background-color: rgb(243, 243, 243);
+    height: auto; 
+    margin: auto;
+    display: flex;
+}
+.image-title{
+    max-width: 400px;
+    background-color: rgb(226, 230, 189);
+    margin-left: 50px;
+}
+.image {
+    width: 400px;
+    height: auto;
+}
+.desc{
+    padding: 20px;
+}
+.publis{
+    text-align: center;
+    color: rgb(197, 89, 0);
+}
+.content{
+    margin: auto;
+}
+.content span{
+    color: rgb(216, 66, 66)
+}
+.author {
+    font-size: 20px;
+    text-align: center
+}
+.author span{
+    color: rgb(1, 134, 1)
+}
+.context{
+    max-width: 650px;
+    text-align: center;
+    font-size: 17px;
+    flex-wrap: wrap;
+}
